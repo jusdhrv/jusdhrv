@@ -1,4 +1,4 @@
-## 🌐 Socials:
+# 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jus.dhrv) 
 
 # 💻 Tech Stack:
@@ -8,5 +8,5 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=jusdhrv&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jusdhrv&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
+# 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=jusdhrv&theme=dark&no-frame=false&no-bg=false&margin-w=4)
