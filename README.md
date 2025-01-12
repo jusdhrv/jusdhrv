@@ -1,7 +1,3 @@
-# 💫 About Me:
-I'm just a young guy going where my interests lead me
-
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jus.dhrv) 
 
